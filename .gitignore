@@ -2,7 +2,7 @@
 # Python
 # =====================
 # OS / editor junk
-`nactions-runner-linux-x64-*.tar.gz
+actions-runner-*.tar*
 *.swp
 *.swo
 *.bak
